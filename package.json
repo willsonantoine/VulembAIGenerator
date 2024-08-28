@@ -56,5 +56,8 @@
   "homepage": "https://github.com/willsonantoine/VulembAIGenerator#readme",
   "devDependencies": {
     "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "openai": "^4.56.1"
   }
 }
