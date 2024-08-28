@@ -1,0 +1,60 @@
+{
+  "name": "vulembaigenerator",
+  "version": "1.0.0",
+  "description": "VulembAIGenerator is a TypeScript library designed to generate content using OpenAI's powerful GPT models. Whether you need to automate text creation, generate ideas, or enhance your applications with AI-driven content, VulembAIGenerator makes it easy to integrate and use OpenAI's capabilities.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willsonantoine/VulembAIGenerator.git"
+  },
+  "keywords": [
+    "GPT-3",
+    "GPT-4",
+    "OpenAI",
+    "TypeScript",
+    "AI",
+    "Content",
+    "Generation",
+    "Text",
+    "Generation",
+    "OpenAI",
+    "API",
+    "Natural",
+    "Language",
+    "Processing",
+    "AI-driven",
+    "content",
+    "JavaScript",
+    "Library",
+    "Asynchronous",
+    "operations",
+    "VulembAIGenerator",
+    "Content",
+    "Automation",
+    "Node.js",
+    "AI",
+    "Tools",
+    "Code",
+    "Integration",
+    "Developer",
+    "Tools",
+    "Machine",
+    "Learning",
+    "API",
+    "Integration",
+    "Text",
+    "Automation"
+  ],
+  "author": "willsonantoine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willsonantoine/VulembAIGenerator/issues"
+  },
+  "homepage": "https://github.com/willsonantoine/VulembAIGenerator#readme",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
